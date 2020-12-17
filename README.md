@@ -5,6 +5,12 @@ Challenge - React - Speedy
 
 O objetivo do challenge é de desenvolver uma aplicação usando React Native, para portaria dos prédios com o propósito de avisar a moradores que chegou encomenda para o seu apartamento;
 
+*Requisitos do projeto*
+
+* Colocar um README informando como fazer para gerar um build do apk;
+* Fazer um fork desse repositório e nos mandar o link;
+* Pode usar qualquer boiler plate que se sinta a vontade (desde que explique lá no README);
+
 *Requisitos do app*
 
 * O usuário deve se logar no app através de login e senha pré-estabelecidos;
@@ -15,15 +21,16 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 * No menu lateral a unica opção que deve funcionar é de Apartamentos que abre a tela principal;
 * Na parte superior da tela principal deve poder filtrar por moradores, blocos ou apartamentos;
 
-*Serão avaliadas*
+*O que vamos avaliar?*
 
 * Utilização das melhores abordagens de design patterns;
 * Clareza do código;
 * Raciocionio que levou a resolução do problema;
+* Fidelidade ao UX/UI;
 
 *Design*
 
 * Deve-se manter o mais fiel possivel ao design proposto;
-* Os assets estão na pasta assets/images ou assets/icons;
+* Os assets estão na pasta assets/
 
 
