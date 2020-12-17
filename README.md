@@ -34,3 +34,4 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 * Os assets estão na pasta assets/
 
 
+![](ChegouEncomenda.gif)
