@@ -21,6 +21,10 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 * No menu lateral a unica opção que deve funcionar é de Apartamentos que abre a tela principal;
 * Na parte superior da tela principal deve poder filtrar por moradores, blocos ou apartamentos;
 
+*API*
+* O app deve fazer uso da API disponível no link:
+[http://chegou.acessetecnologia.com.br/swagger-ui/]
+
 *O que vamos avaliar?*
 
 * Utilização das melhores abordagens de design patterns;
