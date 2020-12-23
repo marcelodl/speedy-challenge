@@ -17,7 +17,7 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 * O app deve listar os blocos e dentro dos blocos os apartamentos, diferenciando os blocos por cores;
 * Ao clicar em um apartamento disponivel, o app deve enviar uma mensagem (Não é necessário fazer o envio em si, apenas chamar a api e mostrar o retorno);
 * O apartamento que foi enviado a mensagem deve ficar desabilitado;
-* Deve-se mostrar a lista de mensagens enviadas do no link abaixo;
+* Deve-se mostrar a lista de mensagens enviadas acessando o botão abaixo dos apartamentos;
 * No menu lateral a unica opção que deve funcionar é de Apartamentos que abre a tela principal;
 * Na parte superior da tela principal deve poder filtrar por moradores, blocos ou apartamentos;
 
