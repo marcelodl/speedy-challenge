@@ -23,7 +23,7 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 
 *API*
 * O app deve fazer uso da API disponível no link:
-[http://chegou.acessetecnologia.com.br/swagger-ui/]
+[http://chegou.acessetecnologia.com.br/swagger-ui.html]
 
 *O que vamos avaliar?*
 
