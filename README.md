@@ -25,6 +25,9 @@ O objetivo do challenge é de desenvolver uma aplicação usando React Native, p
 * O app deve fazer uso da API disponível no link:
 [http://chegou.acessetecnologia.com.br/swagger-ui.html]
 
+Usuário: testador@mail.com
+Senha: admin123
+
 *O que vamos avaliar?*
 
 * Utilização das melhores abordagens de design patterns;
